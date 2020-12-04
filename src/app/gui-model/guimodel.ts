@@ -317,7 +317,7 @@ export class GuiModel {
                             "url": "//friend/:friendKey/activity",
                             
                         },
-                    ]
+                    ] //sdfsdfsadf
                 },
                 {
                     "id": "locationspage",
