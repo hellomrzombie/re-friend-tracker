@@ -119,6 +119,7 @@ export class GuiModel {
                             "name": "GroupName",
                             "width": 2,
                             "required": true
+                            //just some text
                         }, {
                             "id": "name",
                             "type": "text",
